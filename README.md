@@ -30,6 +30,21 @@ Unlike simple billing apps, this project uses a **Normalized 8-Table Database** 
 * **Smart Cart:** Browse products and manage a temporary shopping cart.
 * **Billing:** Automatic tax calculation and invoice generation.
 
+## ⚙️ Installation & Setup
+
+1.  **Clone the Repository**
+
+2.  **Configure Database**
+    * Open `smartshopmangement/src/main/java/com/project/smartshopmangement/util/DataBaseUtil.java`.
+    * Update the `url` and `password` variables to match your local MySQL credentials.
+
+3.  **Run the Application**
+    * Open the project in **Eclipse**.
+    * Run `App.java` as a **Java Application**.
+    * *Note: The system will automatically create the database and tables on the first run.*
+
+---
+
 # Guided By<br>
 Anuj Kumar<br>
 
