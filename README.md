@@ -75,5 +75,10 @@ Course Code : ITPR<br>
 ### Customer Dashboard
 ![Customer Menu Screenshot](demo_screenshot/customer-dashboard.png)
 
+## 🎥 Demo Video
+
+Click the link below to watch the project demo:
+
+▶️ [Watch Demo Video](Demo_Video/demo.mp4)
 
 
